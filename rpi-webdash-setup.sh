@@ -61,6 +61,7 @@ then
 	echo Install Chromium with mscorefonts
 	sudo apt-get install chromium ttf-mscorefonts-installer
 else
+	echo user cancelled script execution...
 	exit 0
 fi
 
