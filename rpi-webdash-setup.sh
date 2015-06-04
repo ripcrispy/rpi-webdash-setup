@@ -34,7 +34,7 @@
 clear
 echo rpi-webdash setup script
 echo created 2-06-2015
-echo **NOTICE**: 
+echo NOTICE: 
 echo Please make sure you have read the contents of 
 echo this script before running for pre and post 
 echo config instructions.. (sudo nano rpi-webdash-setup.sh)
